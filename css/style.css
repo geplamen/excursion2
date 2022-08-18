@@ -12,11 +12,14 @@ color:#ffffff;}
 
 .header--secondary{
 font-weight: 300;
-font-size: 52px;
-color: #ffffff ;
+font-size: 42px;
+color: #ffffff ;}
 
+.header--subheader{
+
+font-size: 21px;
+color: gray ;
 }
-
 
 /*LINKS*/
 .link--cta {
